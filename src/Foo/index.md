@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Components
+  title: 组件
   path: /components
 ---
 
@@ -12,7 +12,7 @@ Demo:
 import React from 'react';
 import { Foo } from 'iw-ui';
 
-export default () => <Foo title="First Demo" />;
+export default () => <Foo title="First Demos" />;
 ```
 
 More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo
