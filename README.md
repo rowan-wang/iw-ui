@@ -5,7 +5,7 @@
 Install dependencies,
 
 ```bash
-$ npm i
+$ pnpm i 
 ```
 
 Start the dev server,
