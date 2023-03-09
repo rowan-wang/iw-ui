@@ -5,7 +5,7 @@
 Install dependencies,
 
 ```bash
-$ pnpm i 
+$ pnpm i 2222
 ```
 
 Start the dev server,
